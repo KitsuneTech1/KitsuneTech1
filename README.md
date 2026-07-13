@@ -17,7 +17,7 @@ We are a small tech studio out of Wentzville, Missouri. We build web apps, devel
 | [exif-remover](https://github.com/KitsuneTech1/exif-remover) | Strip image metadata in your browser · [try it](https://kitsunetech1.github.io/exif-remover/) | JavaScript |
 | [universal-copy-paste](https://github.com/KitsuneTech1/universal-copy-paste) | Reliable copy and plain-text paste for Windows | PowerShell |
 | [sayo-remap](https://github.com/KitsuneTech1/sayo-remap) | Remapper for the SayoDevice 1x3P macro pad | Python |
-| [drop-harbor](https://github.com/KitsuneTech1/drop-harbor) | Self-hosted file sharing with public links and search | Node |
+| [kitsune-a11y-mcp](https://github.com/KitsuneTech1/kitsune-a11y-mcp) | WCAG 2.2 accessibility audits for AI agents, axe-core based | Node |
 
 We also ship a pack of Minecraft plugins and a few Godot games. Browse the repos below for the full set.
 
