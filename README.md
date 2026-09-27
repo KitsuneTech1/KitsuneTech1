@@ -3,10 +3,10 @@
 <p align="center">
   <a href="https://kitsunetechnologies.org"><img src="https://img.shields.io/badge/site-kitsunetechnologies.org-c14a28?style=flat-square"></a>
   <a href="https://kitsunetechnologies.org/work"><img src="https://img.shields.io/badge/portfolio-our%20work-1c1a16?style=flat-square"></a>
-  <img src="https://img.shields.io/badge/based%20in-Wentzville%2C%20MO-5c564c?style=flat-square">
+  <img src="https://img.shields.io/badge/based%20in-St.%20Louis%20area-5c564c?style=flat-square">
 </p>
 
-We are a small tech studio out of Wentzville, Missouri. We build web apps, developer tools, homelab utilities, and games. This account is where the open source ones live.
+We are a small tech studio out of the St. Louis area. We build web apps, developer tools, homelab utilities, and games. This account is where the open source ones live.
 
 ### Featured open source
 
